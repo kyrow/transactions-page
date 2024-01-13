@@ -1,0 +1,98 @@
+[
+	{
+		"_id": 1,
+		"title": "Apple Mac Mini A2686",
+		"date": "2023-11-22",
+		"type": "Electronics",
+		"totalAmount": 498000,
+		"details": "cash payment"
+	},
+	{
+		"_id": 2,
+		"title": "Dell Inspiron Desktop D3456",
+		"date": "2023-02-15",
+		"type": "Electronics",
+		"totalAmount": 525000,
+		"details": "Card payment"
+	},
+	{
+		"_id": 3,
+		"title": "HP Pavilion Slimline S4321",
+		"date": "2023-03-18",
+		"type": "Electronics",
+		"totalAmount": 480000,
+		"details": "Bank transfer"
+	},
+	{
+		"_id": 4,
+		"title": "Lenovo ThinkCentre M7123",
+		"date": "2023-04-05",
+		"type": "Electronics",
+		"totalAmount": 510000,
+		"details": "Cash on delivery"
+	},
+	{
+		"_id": 5,
+		"title": "Samsung 55-inch Smart TV",
+		"date": "2023-05-20",
+		"type": "Electronics",
+		"totalAmount": 850000,
+		"details": "Online payment"
+	},
+	{
+		"_id": 6,
+		"title": "Sony WH-1000XM4 Wireless Headphones",
+		"date": "2023-06-10",
+		"type": "Electronics",
+		"totalAmount": 350000,
+		"details": "Credit card installment"
+	},
+	{
+		"_id": 7,
+		"title": "Nike Air Zoom Pegasus 38 Running Shoes",
+		"date": "2023-07-25",
+		"type": "Sports",
+		"totalAmount": 120000,
+		"details": "Online payment"
+	},
+	{
+		"_id": 8,
+		"title": "KitchenAid Stand Mixer",
+		"date": "2023-08-08",
+		"type": "Appliances",
+		"totalAmount": 280000,
+		"details": "Bank transfer"
+	},
+	{
+		"_id": 9,
+		"title": "Fujifilm X-T4 Mirrorless Camera",
+		"date": "2023-09-15",
+		"type": "Electronics",
+		"totalAmount": 1500000,
+		"details": "Cash payment"
+	},
+	{
+		"_id": 10,
+		"title": "Apple iPad Air (4th generation)",
+		"date": "2023-10-20",
+		"type": "Electronics",
+		"totalAmount": 650000,
+		"details": "Card payment"
+	},
+	{
+		"_id": 11,
+		"title": "Calvin Klein Men's Leather Wallet",
+		"date": "2023-11-12",
+		"type": "Fashion",
+		"totalAmount": 75000,
+		"details": "Online payment"
+	},
+	{
+		"_id": 12,
+		"title": "Instant Pot Duo Evo Plus Pressure Cooker",
+		"date": "2023-12-25",
+		"type": "Appliances",
+		"totalAmount": 185000,
+		"details": "Cash on delivery"
+	}
+]
