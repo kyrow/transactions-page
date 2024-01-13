@@ -4,6 +4,7 @@ import { Flex, Switch } from 'antd'
 import styles from './index.module.scss'
 import { useState } from 'react'
 import TransactionsListWidget from '@/widgets/TransactionsList'
+import TransactionsDiagramWidget from '@/widgets/TransactionsDiagram'
 export default function Home() {
 
 	const { container, wrapper, togglerContainer } = styles
@@ -16,11 +17,12 @@ export default function Home() {
 
 				<Flex className={togglerContainer} justify="space-between" align='center'>
 					<span>List</span>
-					<Switch defaultChecked />
+					<Switch defaultChecked={false} onChange={() => setIsList(!isList)} />
 					<span>Diagram</span>
 				</Flex>
 
-				<TransactionsListWidget />
+				{isList && <TransactionsListWidget />}
+				{!isList && <TransactionsDiagramWidget />}
 			</section>
 		</main>
 	)
